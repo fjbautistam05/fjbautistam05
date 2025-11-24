@@ -21,7 +21,7 @@ I am deeply interested in exploring both the cutting-edge and the fundamentals o
 
 <p>
 :chart_with_upwards_trend: Advanced Computing: Focused on Algorithmic Complexity, Artificial Intelligence (AI), and Big Data.<br>
-:gear: Foundational Systems:** Fascinated by Computer Networking and the challenges of Low-Level Programming.<br>
+:gear: Foundational Systems: Fascinated by Computer Networking and the challenges of Low-Level Programming.<br>
 :heart: Open Source: My goal is to become an active contributor to the Open Source Community.
 </p>
 
